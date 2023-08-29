@@ -1,0 +1,2 @@
+# Peer Learning with [Topman](https://github.com/tpauldike)
+Stored in this repository are some of the codes written in some live learning sessions that were led by [Topman Paul-Dike](https://github.com/tpauldike), where Software Engineering students of ALX get the opportunity to draw from one another's wealth of knowledge. Some of the recorded sessions were also uploaded on YouTube for those who might want to learn to watch freely.
