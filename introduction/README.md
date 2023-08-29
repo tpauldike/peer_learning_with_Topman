@@ -14,4 +14,4 @@ Contained in this directory are codes that were written in two sessions where we
 
 The videos are available on YouTube, in 2 parts, as follows:
 1. [The basics of Javascript programming](https://youtu.be/Yjdi8wllajg?si=DT0edi9C7GTPIx7R)
-2. [JavaScript functions, objects, arrays & modules]()
+2. [JavaScript functions, objects, arrays & modules](https://youtu.be/A8hIN5Z3UF0)
