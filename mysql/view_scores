@@ -1,0 +1,2 @@
+USE sign_in;
+SELECT * FROM scores;
